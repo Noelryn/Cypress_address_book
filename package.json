@@ -1,0 +1,11 @@
+{
+  "name": "cypress_address_book_v2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Noelryn/cypress_address_book.git",
+  "author": "Noel Ryan <noelgerard.ryan@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^3.7.0"
+  }
+}
